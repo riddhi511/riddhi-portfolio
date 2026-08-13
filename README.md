@@ -2,7 +2,7 @@
 
 My personal portfolio site, built to showcase my projects, skills, and experience as a software engineer.
 
-**Live site:** [Add your Vercel URL here]
+**Live site:** (https://riddhi-portfolio-beta.vercel.app/)
 
 ## About
 
