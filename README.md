@@ -1,4 +1,4 @@
-# Riddhi Soni — Portfolio
+# Riddhi Soni - Portfolio
 
 My personal portfolio site, built to showcase my projects, skills, and experience as a software engineer.
 
