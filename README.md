@@ -8,17 +8,17 @@ My personal portfolio site, built to showcase my projects, skills, and experienc
 
 This is a single-page portfolio featuring:
 
-- **About** — quick intro and resume link
-- **Education & Experience** — a timeline of my academic and professional background
-- **Projects** — flagship builds including SnapClass, SipDB, and Eventify
-- **Skills** — languages, frameworks, and tools I work with
-- **Certificates** — credentials from Google Cloud, Anthropic, CodePath, and AWS
-- **Contact** — ways to get in touch
+- **About** - quick intro and resume link
+- **Education & Experience** - a timeline of my academic and professional background
+- **Projects** - flagship builds including SnapClass, SipDB, and Eventify
+- **Skills** - languages, frameworks, and tools I work with
+- **Certificates** - credentials from Google Cloud, Anthropic, CodePath, and AWS
+- **Contact** - ways to get in touch
 
 ## Tech Stack
 
 - [Angular](https://angular.dev/) 21
-- Custom CSS (no framework)
+- Custom CSS
 - Deployed on [Vercel](https://vercel.com/)
 
 ## Development
